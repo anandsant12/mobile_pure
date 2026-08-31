@@ -1,0 +1,11 @@
+groq>=0.31.0
+openai>=1.40.0
+python-dotenv
+pydantic
+pydantic-settings
+streamlit
+selenium
+Appium-Python-Client
+thefuzz
+python-Levenshtein
+Pillow
